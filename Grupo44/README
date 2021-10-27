@@ -1,0 +1,1 @@
+Não houve limitações, no que concerne á realização da fase 4 do Projeto. A única coisa a constatar é que, quando existe um pedido de escrita, após o servidor primário enviar o pedido para o backup, este último imprime alguns caracteres no terminal, não sabendo o grupo o porquê de tal ocorrer.
